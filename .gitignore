@@ -1,0 +1,12 @@
+# Build artifacts
+.build/
+MoonlightRemapper.app/
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+
+# macOS
+.DS_Store
